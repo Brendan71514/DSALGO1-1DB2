@@ -61,6 +61,7 @@ def BubbleSortAscending(arr1):
         for j in range(0, len(ar1) - i - 1):
             if ar1[j] > ar1[j + 1]:
                 ar1[j], ar1[j + 1] = ar1[j + 1], ar1[j]
+
 ar1 = [23,89, 7, 56, 44]
 print("Number 1 before bubble sort")
 print(ar1)
