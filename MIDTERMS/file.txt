@@ -1,0 +1,10 @@
+RUN
+THE
+main.py
+FOR
+THESE
+WORDS
+TO
+BE
+REVERSED
+:))))))))))))))
